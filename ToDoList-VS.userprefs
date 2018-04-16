@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{098D5A35-001A-4955-B1F1-04DC7D60E90F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoList-VS/Views/Items/Create.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoList-VS/Views/Items/Delete.cshtml">
     <Files>
       <File FileName="ToDoList-VS/Controllers/HomeController.cs" Line="1" Column="1" />
       <File FileName="ToDoList-VS/appsettings.json" Line="5" Column="2" />
-      <File FileName="ToDoList-VS/Models/ToDoListContext.cs" Line="4" Column="21" />
+      <File FileName="ToDoList-VS/Models/ToDoListContext.cs" Line="14" Column="2" />
       <File FileName="ToDoList-VS/Models/Item.cs" Line="14" Column="1" />
-      <File FileName="ToDoList-VS/Controllers/ItemsController.cs" Line="33" Column="10" />
-      <File FileName="ToDoList-VS/Views/Items/Index.cshtml" Line="13" Column="14" />
+      <File FileName="ToDoList-VS/Controllers/ItemsController.cs" Line="69" Column="10" />
+      <File FileName="ToDoList-VS/Views/Items/Index.cshtml" Line="19" Column="8" />
       <File FileName="ToDoList-VS/Views/Items/Details.cshtml" Line="11" Column="47" />
       <File FileName="ToDoList-VS/Startup.cs" Line="12" Column="25" />
       <File FileName="ToDoList-VS/Program.cs" Line="16" Column="65" />
-      <File FileName="ToDoList-VS/Views/Items/Create.cshtml" Line="19" Column="8" />
+      <File FileName="ToDoList-VS/Views/Items/Create.cshtml" Line="1" Column="18" />
+      <File FileName="ToDoList-VS/Views/Items/Edit.cshtml" Line="23" Column="10" />
+      <File FileName="ToDoList-VS/Views/Items/Delete.cshtml" Line="1" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
